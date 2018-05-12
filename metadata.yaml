@@ -1,0 +1,30 @@
+_repo: A-Description-of-the-Bar-and-Frame-HiveWith-an-Abstract-of-Wildman-s-Complete-Guide-for-the-M__19319
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Munn, William Augustus
+    alias: Munn, W. Augustus (William Augustus)
+    gutenberg_agent_id: '8587'
+    url: http://www.gutenberg.org/2009/agents/8587
+description: ''
+gutenberg_issued: '2006-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bee culture'
+- !lcsh 'Bees'
+- !lcsh 'Beehives'
+- !lcc 'SF'
+title: 'A Description of the Bar-and-Frame-Hive
+
+  With an Abstract of Wildman''s Complete Guide for the Management of Bees Throughout
+  the Year'
+url: http://www.gutenberg.org/ebooks/19319
