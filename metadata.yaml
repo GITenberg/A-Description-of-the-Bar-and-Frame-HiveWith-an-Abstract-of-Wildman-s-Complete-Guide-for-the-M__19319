@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8587'
     url: http://www.gutenberg.org/2009/agents/8587
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19319#A-Description-of-the-Bar-and-Frame-HiveWith-an-Abstract-of-Wildman-s-Complete-Guide-for-the-M_
 gutenberg_issued: '2006-09-18'
 gutenberg_type: Text
 identifiers:
